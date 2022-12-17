@@ -1,0 +1,134 @@
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.csproj.AssemblyReference.cache
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.Properties.Resources.resources
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.csproj.GenerateResource.cache
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\CorPartReportes.exe.config
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\CorPartReportes.exe
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\CorPartReportes.pdb
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\System.Data.SqlClient.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\EnvDTE.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\stdole.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\System.Data.SqlClient.xml
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.csproj.CopyComplete
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.exe
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.pdb
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.FrmTop3.resources
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.FrmListado.resources
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\CorPartReportes.exe.config
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\CorPartReportes.exe
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\CorPartReportes.pdb
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\System.Data.SqlClient.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\EnvDTE.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\stdole.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\System.Data.SqlClient.xml
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.csproj.AssemblyReference.cache
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.FrmListado.resources
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.FrmTop3.resources
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.Properties.Resources.resources
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.csproj.GenerateResource.cache
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.csproj.CopyComplete
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.exe
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\CorPartReportes\obj\Debug\CorPartReportes.pdb

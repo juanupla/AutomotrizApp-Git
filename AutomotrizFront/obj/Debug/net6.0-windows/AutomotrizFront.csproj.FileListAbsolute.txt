@@ -1,0 +1,245 @@
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\CorPartAutomotriz.Presentacion.FrmFactura.resources
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\CorPartAutomotriz.Presentacion.FrmInicio.resources
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\CorPartAutomotriz.Presentacion.FrmLogin.resources
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.exe
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.deps.json
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.runtimeconfig.json
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Automotriz.dll
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Automotriz.pdb
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CopyComplete
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\refint\AutomotrizFront.dll
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\ref\AutomotrizFront.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.exe
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.deps.json
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.runtimeconfig.json
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Automotriz.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Automotriz.pdb
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\CorPartAutomotriz.Presentacion.FrmFactura.resources
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\CorPartAutomotriz.Presentacion.FrmInicio.resources
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\CorPartAutomotriz.Presentacion.FrmLogin.resources
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CopyComplete
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\refint\AutomotrizFront.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.genruntimeconfig.cache
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\ref\AutomotrizFront.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Presentacion.FrmNuevoClientes.resources
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\CorPartReportes.exe
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\CorPartReportes.pdb
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\CorPartReportes.exe.config
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Presentacion.FrmActualizarEliminarCliente.resources
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Presentacion.FrmEliminarCliente.resources
+C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Presentacion.FrmIntegrantes.resources
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.exe
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.deps.json
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.runtimeconfig.json
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Automotriz.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\CorPartReportes.exe
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Automotriz.pdb
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\CorPartReportes.pdb
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\CorPartReportes.exe.config
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Presentacion.FrmActualizarEliminarCliente.resources
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Presentacion.FrmEliminarCliente.resources
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\CorPartAutomotriz.Presentacion.FrmFactura.resources
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\CorPartAutomotriz.Presentacion.FrmInicio.resources
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Presentacion.FrmIntegrantes.resources
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\CorPartAutomotriz.Presentacion.FrmLogin.resources
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Presentacion.FrmNuevoClientes.resources
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CopyComplete
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\refint\AutomotrizFront.dll
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.genruntimeconfig.cache
+C:\Users\juan_\OneDrive\Escritorio\Nueva carpeta\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\ref\AutomotrizFront.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.exe
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.deps.json
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.runtimeconfig.json
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.pdb
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Automotriz.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\CorPartReportes.exe
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\Automotriz.pdb
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\CorPartReportes.pdb
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\bin\Debug\net6.0-windows\CorPartReportes.exe.config
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Presentacion.FrmActualizarEliminarCliente.resources
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Presentacion.FrmEliminarCliente.resources
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\CorPartAutomotriz.Presentacion.FrmFactura.resources
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\CorPartAutomotriz.Presentacion.FrmInicio.resources
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Presentacion.FrmIntegrantes.resources
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\CorPartAutomotriz.Presentacion.FrmLogin.resources
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Presentacion.FrmNuevoClientes.resources
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfo.cs
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CopyComplete
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\refint\AutomotrizFront.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.pdb
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.genruntimeconfig.cache
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App con API\Progra_2-Ultimo\Automotriz\AutomotrizFront\obj\Debug\net6.0-windows\ref\AutomotrizFront.dll
