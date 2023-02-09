@@ -19,7 +19,7 @@ namespace CorPartReportes
         public FrmTop3()
         {
             InitializeComponent();
-            cadena = @"Data Source=localhost;Initial Catalog=tp_laboratorio_automotriz;Integrated Security=True";
+            cadena = @"Data Source=DESKTOP-SLL8II2\SQLEXPRESS;Initial Catalog=tp_laboratorio_automotriz;Integrated Security=True";
             cnn = new SqlConnection(cadena);
         }
 

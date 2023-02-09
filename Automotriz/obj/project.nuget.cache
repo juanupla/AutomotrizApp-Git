@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E+UVqhPjPaT2RHHFuUspcjCgTumdJNzL3kzM4Cslbv6U6YXpgrWr/eTbyBPsi7rUAyvtw+8T4Kyyuet0RpHEgg==",
+  "dgSpecHash": "5CybBfXfWp6uPIwfm8QmfU6n+mGPYNDJFD/OvKxFyhGFIn/HXsD6/VQWNMAugNeSn35R2fpbAEfkqgh8gITRow==",
   "success": true,
-  "projectFilePath": "D:\\EscritorioCremona\\programacion\\Facultad-UTNFRC\\2_ -2do cuatrimestre\\Programacion 2\\TrabajoProgra\\App con API\\Progra_2-Ultimo\\Automotriz\\Automotriz\\Automotriz.csproj",
+  "projectFilePath": "C:\\EscritorioCremona\\Visual-Repositorio\\AutomotrizApp-Git\\Automotriz\\Automotriz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juan_\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\juan_\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -22,3 +22,15 @@ C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\Automotriz\obj\Deb
 C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\Automotriz\obj\Debug\net6.0\refint\Automotriz.dll
 C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\Automotriz\obj\Debug\net6.0\Automotriz.pdb
 C:\Users\juan_\OneDrive\Escritorio\Progra_2-Ultimo\Automotriz\Automotriz\obj\Debug\net6.0\ref\Automotriz.dll
+C:\EscritorioCremona\Visual-Repositorio\AutomotrizApp-Git\Automotriz\bin\Debug\net6.0\Automotriz.deps.json
+C:\EscritorioCremona\Visual-Repositorio\AutomotrizApp-Git\Automotriz\bin\Debug\net6.0\Automotriz.dll
+C:\EscritorioCremona\Visual-Repositorio\AutomotrizApp-Git\Automotriz\bin\Debug\net6.0\Automotriz.pdb
+C:\EscritorioCremona\Visual-Repositorio\AutomotrizApp-Git\Automotriz\obj\Debug\net6.0\Automotriz.csproj.AssemblyReference.cache
+C:\EscritorioCremona\Visual-Repositorio\AutomotrizApp-Git\Automotriz\obj\Debug\net6.0\Automotriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\EscritorioCremona\Visual-Repositorio\AutomotrizApp-Git\Automotriz\obj\Debug\net6.0\Automotriz.AssemblyInfoInputs.cache
+C:\EscritorioCremona\Visual-Repositorio\AutomotrizApp-Git\Automotriz\obj\Debug\net6.0\Automotriz.AssemblyInfo.cs
+C:\EscritorioCremona\Visual-Repositorio\AutomotrizApp-Git\Automotriz\obj\Debug\net6.0\Automotriz.csproj.CoreCompileInputs.cache
+C:\EscritorioCremona\Visual-Repositorio\AutomotrizApp-Git\Automotriz\obj\Debug\net6.0\Automotriz.dll
+C:\EscritorioCremona\Visual-Repositorio\AutomotrizApp-Git\Automotriz\obj\Debug\net6.0\refint\Automotriz.dll
+C:\EscritorioCremona\Visual-Repositorio\AutomotrizApp-Git\Automotriz\obj\Debug\net6.0\Automotriz.pdb
+C:\EscritorioCremona\Visual-Repositorio\AutomotrizApp-Git\Automotriz\obj\Debug\net6.0\ref\Automotriz.dll

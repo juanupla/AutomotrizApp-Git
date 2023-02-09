@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Automotriz\Automotriz.csproj" />
+    <ProjectReference Include="..\AutomotrizApi\AutomotrizApi.csproj" />
     <ProjectReference Include="..\CorPartReportes\CorPartReportes.csproj" />
   </ItemGroup>
 

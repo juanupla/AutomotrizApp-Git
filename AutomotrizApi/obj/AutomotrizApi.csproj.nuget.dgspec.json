@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EscritorioCremona\\programacion\\Facultad-UTNFRC\\2_ -2do cuatrimestre\\Programacion 2\\TrabajoProgra\\App con API\\Progra_2-Ultimo\\Automotriz\\AutomotrizApi\\AutomotrizApi.csproj": {}
+    "C:\\EscritorioCremona\\Visual-Repositorio\\AutomotrizApp-Git\\AutomotrizApi\\AutomotrizApi.csproj": {}
   },
   "projects": {
-    "D:\\EscritorioCremona\\programacion\\Facultad-UTNFRC\\2_ -2do cuatrimestre\\Programacion 2\\TrabajoProgra\\App con API\\Progra_2-Ultimo\\Automotriz\\AutomotrizApi\\AutomotrizApi.csproj": {
+    "C:\\EscritorioCremona\\Visual-Repositorio\\AutomotrizApp-Git\\AutomotrizApi\\AutomotrizApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EscritorioCremona\\programacion\\Facultad-UTNFRC\\2_ -2do cuatrimestre\\Programacion 2\\TrabajoProgra\\App con API\\Progra_2-Ultimo\\Automotriz\\AutomotrizApi\\AutomotrizApi.csproj",
+        "projectUniqueName": "C:\\EscritorioCremona\\Visual-Repositorio\\AutomotrizApp-Git\\AutomotrizApi\\AutomotrizApi.csproj",
         "projectName": "AutomotrizApi",
-        "projectPath": "D:\\EscritorioCremona\\programacion\\Facultad-UTNFRC\\2_ -2do cuatrimestre\\Programacion 2\\TrabajoProgra\\App con API\\Progra_2-Ultimo\\Automotriz\\AutomotrizApi\\AutomotrizApi.csproj",
+        "projectPath": "C:\\EscritorioCremona\\Visual-Repositorio\\AutomotrizApp-Git\\AutomotrizApi\\AutomotrizApi.csproj",
         "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-        "outputPath": "D:\\EscritorioCremona\\programacion\\Facultad-UTNFRC\\2_ -2do cuatrimestre\\Programacion 2\\TrabajoProgra\\App con API\\Progra_2-Ultimo\\Automotriz\\AutomotrizApi\\obj\\",
+        "outputPath": "C:\\EscritorioCremona\\Visual-Repositorio\\AutomotrizApp-Git\\AutomotrizApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\EscritorioCremona\\programacion\\Facultad-UTNFRC\\2_ -2do cuatrimestre\\Programacion 2\\TrabajoProgra\\App con API\\Progra_2-Ultimo\\Automotriz\\Automotriz\\Automotriz.csproj": {
-                "projectPath": "D:\\EscritorioCremona\\programacion\\Facultad-UTNFRC\\2_ -2do cuatrimestre\\Programacion 2\\TrabajoProgra\\App con API\\Progra_2-Ultimo\\Automotriz\\Automotriz\\Automotriz.csproj"
+              "C:\\EscritorioCremona\\Visual-Repositorio\\AutomotrizApp-Git\\Automotriz\\Automotriz.csproj": {
+                "projectPath": "C:\\EscritorioCremona\\Visual-Repositorio\\AutomotrizApp-Git\\Automotriz\\Automotriz.csproj"
               }
             }
           }
@@ -63,7 +64,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -75,18 +77,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\EscritorioCremona\\programacion\\Facultad-UTNFRC\\2_ -2do cuatrimestre\\Programacion 2\\TrabajoProgra\\App con API\\Progra_2-Ultimo\\Automotriz\\Automotriz\\Automotriz.csproj": {
+    "C:\\EscritorioCremona\\Visual-Repositorio\\AutomotrizApp-Git\\Automotriz\\Automotriz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EscritorioCremona\\programacion\\Facultad-UTNFRC\\2_ -2do cuatrimestre\\Programacion 2\\TrabajoProgra\\App con API\\Progra_2-Ultimo\\Automotriz\\Automotriz\\Automotriz.csproj",
+        "projectUniqueName": "C:\\EscritorioCremona\\Visual-Repositorio\\AutomotrizApp-Git\\Automotriz\\Automotriz.csproj",
         "projectName": "Automotriz",
-        "projectPath": "D:\\EscritorioCremona\\programacion\\Facultad-UTNFRC\\2_ -2do cuatrimestre\\Programacion 2\\TrabajoProgra\\App con API\\Progra_2-Ultimo\\Automotriz\\Automotriz\\Automotriz.csproj",
+        "projectPath": "C:\\EscritorioCremona\\Visual-Repositorio\\AutomotrizApp-Git\\Automotriz\\Automotriz.csproj",
         "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-        "outputPath": "D:\\EscritorioCremona\\programacion\\Facultad-UTNFRC\\2_ -2do cuatrimestre\\Programacion 2\\TrabajoProgra\\App con API\\Progra_2-Ultimo\\Automotriz\\Automotriz\\obj\\",
+        "outputPath": "C:\\EscritorioCremona\\Visual-Repositorio\\AutomotrizApp-Git\\Automotriz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -101,6 +103,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -130,7 +133,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -139,7 +143,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

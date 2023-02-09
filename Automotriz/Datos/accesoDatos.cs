@@ -17,7 +17,7 @@ namespace CorPartAutomotriz.Datos
 
         public accesoDatos()
         {
-            cadena = @"Data Source=localhost;Initial Catalog=tp_laboratorio_automotriz;Integrated Security=True";
+            cadena = @"Data Source=DESKTOP-SLL8II2\SQLEXPRESS;Initial Catalog=tp_laboratorio_automotriz;Integrated Security=True";
             cnn = new SqlConnection(cadena);
         }
 
@@ -95,7 +95,7 @@ namespace CorPartAutomotriz.Datos
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@id_provincia", id_provincia);
             tabla.Load(cmd.ExecuteReader());
-            cnn.Close();
+            cnn.Close(); 
             return tabla;
         }
         //ultimo o nuevo, para lo de agos.
